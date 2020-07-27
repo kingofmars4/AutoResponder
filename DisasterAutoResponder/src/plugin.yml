@@ -1,0 +1,7 @@
+name: DisasterAutoResponder
+main: me.bukkit.mkservices.disasterar.Main
+version: 1.0
+commands:
+    ar reload:
+        description: Reloads the configuration file!
+        usage: /ar reload
